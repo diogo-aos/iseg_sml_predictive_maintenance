@@ -1,0 +1,5 @@
+jupyterlab
+sklearn
+pandas
+matplotlib
+pre-commit
