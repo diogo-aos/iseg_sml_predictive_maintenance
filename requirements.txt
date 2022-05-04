@@ -4,3 +4,4 @@ pandas
 matplotlib
 pre-commit
 mlflow
+seaborn
